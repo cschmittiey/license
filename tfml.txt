@@ -18,7 +18,7 @@ _||_ Work in progress, - Created by: The Crowbar Development Team and others (WI
 					and allows no-one to ever close up the
 					works that they have got from a creator.
 
-						All works, must stay open.
+						All works must stay open.
 
             				 ======= Terms and conditions =======
 
@@ -31,14 +31,14 @@ _||_ Work in progress, - Created by: The Crowbar Development Team and others (WI
 				1. Distributing works
 
 				1.a. The creator, when sharing his/her works,
-				must share the whole project file* (The file that you, store
-				the whole song in).
+				must share the whole project file* (The file that the creator's 
+				work is stored in).
 
 				1.b. The creator, when sharing his/her works, must share all
 				samples * (audio clips, not source-like audio, they are unlike
 				notes, audio effects, they are not human-readable) used, if any.
 				
-				1.c. TThe creator, when sharing his/her works, must share all
+				1.c. The creator, when sharing his/her works, must share all
 				presets as files* (the preset file stored on the filesystem.),
 				if any used.
 
