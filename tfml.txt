@@ -22,6 +22,8 @@ _||_ Work in progress, - The Crowbar development Team - This document is license
 				to be licensed under The Free Music License version 1.0 ,
 				failing to do so, will void the licensing on your work.
 
+
+
 				1. Distributing works
 
 				1.a. The creator, when sharing his/her works,
@@ -36,6 +38,8 @@ _||_ Work in progress, - The Crowbar development Team - This document is license
 				presets as files* (the preset file stored on the filesystem.),
 				if any used.
 
+
+
 				2. Same rights for all
 
 				2.a. If you publish your works under The Free Music License and someone
@@ -45,6 +49,8 @@ _||_ Work in progress, - The Crowbar development Team - This document is license
 
 				2.b. You may not change the license of a work licensed under The Free
 				Music License.
+
+
 
 				3. Selling of works
 
@@ -59,6 +65,8 @@ _||_ Work in progress, - The Crowbar development Team - This document is license
 
 				3.b. If a buyer buys your source code, the project file* (), he has the right
 				to charge a price, any price, for it or to charge no price at all.
+
+
 
 				4. Under the following terms
 
