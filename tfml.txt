@@ -63,9 +63,9 @@ _||_ Work in progress, - Created by: The Crowbar Development Team and others (WI
 				the below terms and conditions.
 
 				3.a. If you sell your original work, you must not only share the audio file*
-				() for money, but must also share the exact replica of the audio file* (),
-				this is the project file*. The compiled project file* must output the exact
-				same, in terms of the binary, audio file* ().
+				(the song, in its compiled form, the project has exports this audio file) for
+				money, but must also share the exact replica of the audio file* (), this is 					the project file*. The compiled project file* must output the exact same,
+				in terms of the binary, audio file* ().
 
 				3.b. If a buyer buys your source code, the project file* (), he has the right
 				to charge a price, any price, for it or to charge no price at all.
