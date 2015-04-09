@@ -75,7 +75,7 @@ _||_ Work in progress, - Created by: The Crowbar Development Team and others (WI
 				4. Under the following terms
 
 				4.a. The creator has the rights to share the samples* (audio clips,
-				not source-like audio, they are unlike notes, audio effects, they are not human- 					readable) used, if any exist in the project.
+				not source-like audio, they are unlike notes, audio effects, they are not 					human-readable) used, if any exist in the project.
 
 				4.b. The creator has the rights to share the presets as files* (the preset
 				file stored on the filesystem.), if he based his preset on a preset he or she
