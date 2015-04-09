@@ -36,14 +36,38 @@ _||_ Work in progress, - The Crowbar development Team - This document is license
 				presets as files* (the preset file stored on the filesystem.),
 				if any used.
 
-				3. Under the following terms
+				2. Same rights for all
 
-				3.a. The creator has the rights to share the samples* (audio clips,
+				2.a. If you publish your works under The Free Music License and someone
+				uses your work, he must follow all of the terms and conditions set
+				in The Free Music License when he publishes his work, if he fails to do
+				so, the licensing on his work shall be void.
+
+				2.b. You may not change the license of a work licensed under The Free
+				Music License.
+
+				3. Selling of works
+
+				If you decide to sell your work, or sell someone else's work that has
+				been licensed under Tne Free Music License, then you must also follow
+				the below terms and conditions.
+
+				3.a. If you sell your original work, you must not only share the audio file*
+				() for money, but must also share the exact replica of the audio file* (),
+				this is the project file*. The compiled project file* must output the exact
+				same, in terms of the binary, audio file* ().
+
+				3.b. If a buyer buys your source code, the project file* (), he has the right
+				to charge a price, any price, for it or to charge no price at all.
+
+				4. Under the following terms
+
+				4.a. The creator has the rights to share the samples* (audio clips,
 				not source-like audio, they are unlike notes, audio effects, they are not human- 					readable) used, if any exist in the project.
 
-				3.b. The creator has the rights to share the presets as files* (the preset
+				4.b. The creator has the rights to share the presets as files* (the preset
 				file stored on the filesystem.), if he based his preset on a preset he or she
 				did not create or simply a preset he or she did not create.
 
-				3.c. The creator has the rights to share (something about midi files goes
-				here, ver similiar to statement 3.b.)
+				4.c. The creator has the rights to share (something about midi files goes
+				here, ver similiar to statement 4.b.)
