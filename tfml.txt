@@ -1,0 +1,49 @@
+_||_ Work in progress, - The Crowbar development Team - This document is licensed under the GNU FDL (http://gnu.org/licenses/fdl.txt) or above.
+
+
+
+				The Free Music License version 1.0 (9th of April 2015)
+					.....
+
+            				   ========= Introduction =========
+
+					The Free Music License is a license that
+					allows the creativity of audio creators
+					to share their works freely with others
+					and keeps the sharely love always active
+					and allows no-one to ever close up the
+					works that they have got from a creator.
+
+						All works, must stay open.
+
+            				 ======= Terms and conditions =======
+
+				All of the below sections must be fulfilled for your work
+				to be licensed under The Free Music License version 1.0 ,
+				failing to do so, will void the licensing on your work.
+
+				1. Distributing works
+
+				1.a. The creator, when sharing his/her works,
+				must share the whole project file* (The file that you, store
+				the whole song in).
+
+				1.b. The creator, when sharing his/her works, must share all
+				samples * (audio clips, not source-like audio, they are unlike
+				notes, audio effects, they are not human-readable) used, if any.
+				
+				1.c. TThe creator, when sharing his/her works, must share all
+				presets as files* (the preset file stored on the filesystem.),
+				if any used.
+
+				3. Under the following terms
+
+				3.a. The creator has the rights to share the samples* (audio clips,
+				not source-like audio, they are unlike notes, audio effects, they are not human- 					readable) used, if any exist in the project.
+
+				3.b. The creator has the rights to share the presets as files* (the preset
+				file stored on the filesystem.), if he based his preset on a preset he or she
+				did not create or simply a preset he or she did not create.
+
+				3.c. The creator has the rights to share (something about midi files goes
+				here, ver similiar to statement 3.b.)
