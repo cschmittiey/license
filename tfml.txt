@@ -82,4 +82,4 @@ _||_ Work in progress, - Created by: The Crowbar Development Team and others (WI
 				did not create or simply a preset he or she did not create.
 
 				4.c. The creator has the rights to share (something about midi files goes
-				here, ver similiar to statement 4.b.)
+				here, very similiar to statement 4.b. - WIP)
